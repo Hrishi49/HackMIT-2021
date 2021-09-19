@@ -10,7 +10,7 @@ This is because the graphics.h file does not work with any other application!
 
 
 
-Files:
+**Files:**
 
 HACKMIT.CPP contains the main source code for the project, and will only work on the Turbo C++ IDE.
 
@@ -18,3 +18,4 @@ Educhemical.fig contains the FIGMA prototype for UI/UX.
 
 FIGMA_Design_pdf.pdf contains the screenshots of the FIGMA prototype.
 
+Educhemical.pptx contains the Power-Point Presentation for this project.
