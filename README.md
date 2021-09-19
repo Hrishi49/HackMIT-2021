@@ -7,3 +7,11 @@ Hydrocarbons form the basic structure of all life forms and that’s why it is t
 
 This project only works on Turbo C++, and no other IDE.
 This is because the graphics.h file does not work with any other application!
+
+
+
+Files:
+
+HACKMIT.CPP contains the main source code for the project, and will only work on the Turbo C++ IDE.
+Educhemical.fig contains the Figma prototype for UI/UX.
+Educhemical_pdf.pdf contains the 
